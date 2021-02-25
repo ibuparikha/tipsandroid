@@ -1,0 +1,38 @@
+{
+  "name": "Tips Android Terkini",
+  "short_name": "Tips Android Logo",
+  "start_url": "https://myphone17.blogpsot.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Informasi teknology terkini seputar smartphone, baik itu android dan iphone. Mencangkup tutorial,tips dan lain sebagainya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-t-7alCx9ki4/YDcBlWPZ4lI/AAAAAAAABFw/X5ad5j6-Pv8quzx_TgZ5it0R5qGd9jzZACLcBGAsYHQ/s48/tips%2Bandroid%2Blogo%2B48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-437_Q_sXwHE/YDcET2BtFUI/AAAAAAAABGA/biMJgNQcMgQpHgxKA9gUEXXa7KejVKVdgCLcBGAsYHQ/s72/tips%2Bandroid%2Blogo%2B72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vAulE7dVx04/YDcF_oLY6BI/AAAAAAAABGI/uo_0i2n6HLQ9ILNAVg-rQPInd3MmNpMFwCLcBGAsYHQ/s0/tips%2Bandroid%2Blogo%2B96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-JT6cVXo-MxU/YDcGK9QpdlI/AAAAAAAABGM/xL_r_CZyT-ARAnlwP4Rhe_P4Dom7z1l4gCLcBGAsYHQ/s144/tips%2Bandroid%2Blogo%2B144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xh5BDGVa1fU/YDcGT4eE2oI/AAAAAAAABGU/76s_91JqefkzfUYmviA89f3qa7FCOnN3wCLcBGAsYHQ/s168/tips%2Bandroid%2Blogo%2B168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fSZUnbnJCqs/YDcAfuL5-VI/AAAAAAAABFc/_2gG1dZZAbcwKMLvwEMYEFBbIlAD-YE4ACLcBGAsYHQ/s192/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bmPavMOjmFI/YDcDnDJ7NjI/AAAAAAAABF4/GZgtmP_dL7w4Iu985LgwXp9e1f0GqHgNgCLcBGAsYHQ/s512/tips%2Bandroid%2Blogo%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
